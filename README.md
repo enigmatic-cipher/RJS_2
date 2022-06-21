@@ -1,0 +1,1 @@
+This is a ReactJS-based temperature control application.The temperature is controlled by two buttons. When the temperature rises above 15°C, the display changes colour to reflect the warmth of the temperature, and the same happens when the temperature falls below 15°C. 
